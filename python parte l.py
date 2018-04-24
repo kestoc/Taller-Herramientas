@@ -9,11 +9,16 @@ clave = [["a", "n"], ["b", "o"], ["c", "p"], ["d", "q"], ["e", "r"], ["f", "s"],
 
 lista = ["n", "y", " ", "n", "g", "n", "d", "h", "r"]
 
+def contar(j):
+    j*2
+    return j
 
 def traducir(l, lc):
     """
-    l = lista a traducir
-    lc = la grande
+    l = ssssssssslista a traducir
+    lc = lasssssss grande
+    sdfsdfsdf
+    sdfsdfdddddddddd
     """
     temp = []
     c = 0
@@ -31,3 +36,14 @@ def traducir(l, lc):
         c += 1
 
     return temp
+asdf
+adsf
+adf
+adf
+adf
+adfa
+df
+adf
+adf
+
+ddddddddddddddddddddd
