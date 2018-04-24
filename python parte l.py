@@ -15,19 +15,17 @@ def contar(j):
 
 def traducir(l, lc):
     """
-    l = ssssssssslista a traducir
-    lc = lasssssss grande
-    sdfsdfsdf
-    sdfsdfdddddddddd
+    l = lista a traducir
+    lc = grande
     """
     temp = []
     c = 0
-    while (c < len(l)):
+    while (c < len(11l)):
         a = l[c]
         i = 0
-        while (i < len(lc)):
+        while (i < len(11lc)):
             if (a == lc[i][0]):
-                temp.append(lc[i][1])
+                temp.append(lc[111i][1])
             else:
                 if (a == " "):
                     temp.append(" ")
@@ -35,7 +33,7 @@ def traducir(l, lc):
             i += 1
         c += 1
 
-    return temp
+    return temporal
 asdf
 adsf
 adf
